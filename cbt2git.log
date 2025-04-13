@@ -1,0 +1,9 @@
+2025-04-13 20:45:57.420038 - Received CBT.V508.FILE565.PDS from FILE565.XMI 
+2025-04-13 20:45:57.420971 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE565.PDS, moved to PDS/$$$#DATE
+2025-04-13 20:45:57.421073 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE565.PDS, moved to PDS/$$NOTE1
+2025-04-13 20:45:57.421172 - Found $$README.txt (text/plain) in CBT.V508.FILE565.PDS, moved to PDS/$$README
+2025-04-13 20:45:57.421255 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE565.PDS, moved to PDS/$PDSLOAD
+2025-04-13 20:45:57.421332 - Found @FILE565.txt (text/plain) in CBT.V508.FILE565.PDS, moved to PDS/@FILE565
+2025-04-13 20:45:57.421717 - Found CCLASS.txt (text/plain) in CBT.V508.FILE565.PDS, moved to PDS/CCLASS
+2025-04-13 20:45:57.422084 - Found COBCLASS.txt (text/plain) in CBT.V508.FILE565.PDS, moved to PDS/COBCLASS
+2025-04-13 20:45:57.422678 - Found DUMPCLAS.bin (application/octet-stream) in CBT.V508.FILE565.PDS, moved to PDS/DUMPCLAS
